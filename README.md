@@ -19,3 +19,14 @@ seaborn
 scikit-learn
 joblib
 flask
+
+## Usage
+Step 1: Data Preprocessing and Model Training
+Run the Jupyter Notebook: Open sentiment_analysis.ipynb and run all cells to preprocess data, train models, and evaluate performance.
+
+Step 2: Preprocess Text
+Step 3: Train Models
+Step 4: Hyperparameter Tuning (Optional)
+Step 5: Save Model and Vectorizer:
+ 
+
